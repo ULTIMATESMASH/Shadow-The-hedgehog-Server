@@ -1,5 +1,2 @@
-## Your mom V1.1
-- I like your mom lol
-
-## Your mom V1.0
-- I like your mom lol
+Welcome / Bienvenido
+- An update server has been added / Se a agregado un servidor de actualición
