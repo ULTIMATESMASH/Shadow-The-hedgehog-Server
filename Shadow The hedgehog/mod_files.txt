@@ -1,1 +1,6 @@
+add Shadow_P1/bb3/Sonic.ar.00
+add Shadow_P1/bb3/Sonic.ar.01
+add Shadow_P1/bb3/Sonic.ar.02
+add Shadow_P1/bb3/Sonic.ar.03
+add Shadow_P1/bb3/Sonic.arl
 add mod.ini
